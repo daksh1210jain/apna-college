@@ -1,2 +1,2 @@
 # apna-college
-This is my first GitHuB repository made by me 
+This is my first GitHuB repository made 
